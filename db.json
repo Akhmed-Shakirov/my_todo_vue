@@ -1,0 +1,81 @@
+{
+  "status": {
+    "status": true
+  },
+  "freeposts": [
+    {
+      "title": "Уроки",
+      "descrition": "Проходи курсы как минимум 3 часа. Доведи до автоматизма и пойми структуру и алгоритм кода. ",
+      "id": 1
+    },
+    {
+      "title": "Интернет магазин",
+      "descrition": "Мой типа интернет магазин с корзиной и каталогом. Поиск и фильтрация по категорий. Глобальный поиск с любой страницы. По ссылки: https://itakhmed.000webhostapp.com/",
+      "id": 2
+    }
+  ],
+  "proposts": [
+    {
+      "title": "Frontend",
+      "lists": [
+        {
+          "id": 1,
+          "list": "Html",
+          "activ": true
+        },
+        {
+          "id": 2,
+          "list": "Css",
+          "activ": true
+        },
+        {
+          "id": 3,
+          "list": "Js",
+          "activ": true
+        },
+        {
+          "id": 4,
+          "list": "Vue",
+          "activ": true
+        },
+        {
+          "id": 5,
+          "list": "Git",
+          "activ": true
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "Работа",
+      "lists": [
+        {
+          "id": 1,
+          "list": "Сделать min 2 проекта",
+          "activ": true
+        },
+        {
+          "id": 2,
+          "list": "Сделать резюме",
+          "activ": true
+        },
+        {
+          "id": 3,
+          "list": "Составить список подходящих работ",
+          "activ": true
+        },
+        {
+          "id": 4,
+          "list": "Обзвонить всех",
+          "activ": true
+        },
+        {
+          "id": 5,
+          "list": "Делать бабки",
+          "activ": false
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
